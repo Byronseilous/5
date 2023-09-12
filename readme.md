@@ -1,5 +1,5 @@
 # react-native-google-nearby-connection [![npm version](https://badge.fury.io/js/react-native-google-nearby-connection.svg)](https://badge.fury.io/js/react-native-google-nearby-connection)
-React Native wrapper for Googles [Nearby Connection API](https://developers.google.com/nearby/connections/overview)
+React Native wrapper forr Googles [Nearby Connection API](https://developers.google.com/nearby/connections/overview)
 
 Download the React Native Nearby Connection demo app from the [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.butchmarshall.reactnative.nearby.connection)
 
